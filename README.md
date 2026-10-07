@@ -3,6 +3,9 @@
 一个离线运行的 Android 闹钟应用，自动计算每个月最后一个周六，并在指定时间响铃。
 
 应用面向需要每月固定提醒、但不想手动重复设置闹钟的场景。所有配置保存在本地，不需要账号、网络或云同步。
+<img width="424" height="933" alt="Screenshot_20261007_155920_com_example_saturdayal" src="https://github.com/user-attachments/assets/19688b0c-c2b2-41f1-b81d-9621e1ab840f" />
+<img width="424" height="933" alt="Screenshot_20261007_155923_com_example_saturdayal" src="https://github.com/user-attachments/assets/f819aeba-ad86-4e7e-a56c-074762b8dada" />
+
 
 ## 功能
 
